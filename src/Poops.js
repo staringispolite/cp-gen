@@ -6,7 +6,7 @@ const layerKeys = {
   BACK_ACCESSORIES: "back_accessories",
   BODIES: "bodies",
   FACES: "faces",
-  FRONT_ACCESSORIES: "front_accessories"
+  FRONT_ACCESSORIES: "front_accessories",
 };
 
 layers[layerKeys.BACKGROUNDS] = [
