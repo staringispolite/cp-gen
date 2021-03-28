@@ -1,0 +1,12 @@
+{
+  "name": "One CryptoPoop",
+  "description": "A single random poop",
+  "image": "http://staringispolite.github.io/cp-api/poops/factory_1.jpg",
+  "attributes": [
+    {
+      "display_type": "number", 
+      "trait_type": "Generation", 
+      "value": "1"
+    }
+  ]
+}

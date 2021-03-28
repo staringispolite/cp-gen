@@ -1,0 +1,12 @@
+{
+  "name": "Poop #24",
+  "description": "A poop! ",
+  "image": "http://staringispolite.github.io/cp-api/poops/11.jpg",
+  "attributes": [
+    {
+      "display_type": "number", 
+      "trait_type": "Generation", 
+      "value": "1"
+    }
+  ]
+}
