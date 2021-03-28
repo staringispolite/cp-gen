@@ -13,15 +13,15 @@ layers[layerKeys.BACKGROUNDS] = [
   {
     name: "orange",
     minRoll: 90,
-    url: "/layers/backgrounds/orange.png"
+    url: "layers/backgrounds/orange.png"
   }, {
     name: "green",
     minRoll: 70,
-    url: "/layers/backgrounds/green.png"
+    url: "layers/backgrounds/green.png"
   }, {
     name: "default",
     minRoll: 0,
-    url: "/layers/backgrounds/blue.png"
+    url: "layers/backgrounds/blue.png"
   },
 ];
 
@@ -29,19 +29,19 @@ layers[layerKeys.BACK_ACCESSORIES] = [
   {
     name: "rainbow",
     minRoll: 95,
-    url: "/layers/back_accessories/rainbow.png"
+    url: "layers/back_accessories/rainbow.png"
   }, {
     name: "flame",
     minRoll: 90,
-    url: "/layers/back_accessories/flame.png"
+    url: "layers/back_accessories/flame.png"
   }, {
     name: "wings",
     minRoll: 70,
-    url: "/layers/back_accessories/wings.png"
+    url: "layers/back_accessories/wings.png"
   }, {
     name: "default",
     minRoll: 0,
-    url: "/layers/back_accessories/none.png"
+    url: "layers/back_accessories/none.png"
   },
 ];
 
@@ -49,15 +49,15 @@ layers[layerKeys.BODIES] = [
   {
     name: "alien",
     minRoll: 90,
-    url: "/layers/base/alien.png"
+    url: "layers/base/alien.png"
   }, {
     name: "black",
     minRoll: 80,
-    url: "/layers/base/black.png"
+    url: "layers/base/black.png"
   }, {
     name: "brown",
     minRoll: 0,
-    url: "/layers/base/brown.png"
+    url: "layers/base/brown.png"
   },
 ];
 
@@ -65,15 +65,15 @@ layers[layerKeys.FACES] = [
   {
     name: "dead",
     minRoll: 90,
-    url: "/layers/face/dead.png"
+    url: "layers/face/dead.png"
   }, {
     name: "sad_sweat",
     minRoll: 70,
-    url: "/layers/face/sad_sweat.png"
+    url: "layers/face/sad_sweat.png"
   }, {
     name: "smile1",
     minRoll: 0,
-    url: "/layers/face/smile1.png"
+    url: "layers/face/smile1.png"
   },
 ];
 
@@ -81,19 +81,19 @@ layers[layerKeys.FRONT_ACCESSORIES] = [
   {
     name: "sprinkles",
     minRoll: 90,
-    url: "/layers/front_accessories/sprinkles.png"
+    url: "layers/front_accessories/sprinkles.png"
   }, {
     name: "hat",
     minRoll: 80,
-    url: "/layers/front_accessories/hat.png"
+    url: "layers/front_accessories/hat.png"
   }, {
     name: "grass",
     minRoll: 70,
-    url: "/layers/front_accessories/grass.png"
+    url: "layers/front_accessories/grass.png"
   }, {
     name: "default",
     minRoll: 0,
-    url: "/layers/front_accessories/none.png"
+    url: "layers/front_accessories/none.png"
   },
 ];
 
