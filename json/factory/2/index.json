@@ -1,0 +1,12 @@
+{
+  "name": "Flaming Bag of CryptoPoops",
+  "description": "A Loot box! Who knows what's in it! Sell the LootBox or open it to reveal the CryptoPoops within",
+  "image": "http://staringispolite.github.io/cp-api/poops/factory_0.jpg",
+  "attributes": [
+    {
+      "display_type": "number", 
+      "trait_type": "Generation", 
+      "value": "1"
+    }
+  ]
+}
